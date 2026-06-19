@@ -1,4 +1,4 @@
-# 🚦 TrafficOps AI: Constraint-Driven Urban Dispatch Intelligence
+# 🚦 Smart Dispatch: Solving Urban Traffic Through AI
 
 An edge-ready, dual-AI pipeline built for the **Gridlock Hackathon 2.0**. Smart Dispatch transitions city traffic management from a reactive, experience-driven model to a proactive, data-driven system by instantly predicting the **Traffic Impact Index (TII)** and **Road Closure Probabilities** from Day-0 dispatcher notes.
 
