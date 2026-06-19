@@ -1,0 +1,2 @@
+timestamp,event_cause,veh_bucket,zone,corridor,day_name,hour,description_text,ai_predicted_tii,actual_observed_tii,actual_cops_deployed
+2026-06-19 17:09:07,Vehicle Breakdown,small_or_none,West Zone 1,Hosur Road,Saturday,9,,71.42,40,2
